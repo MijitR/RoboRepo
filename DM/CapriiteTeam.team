@@ -1,0 +1,6 @@
+#Robocode robot team
+#Mon Aug 21 17:37:44 CDT 2006
+team.members=DM.Capriite 3.7.2,DM.Ethereal 1.0,HELPBOT2.HELPBOT2,rh.Domibot,rh.IceMan,rh.SHOTGUN,rh.TeamGUN,rh.Bunninator
+team.author.name=Damij
+robocode.version=1.0.6
+team.description=Latest robots, starting with Capriite
